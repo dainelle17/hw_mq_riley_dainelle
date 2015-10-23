@@ -1,6 +1,8 @@
 # URL
 https://github.com/dainelle17/hw_mq_riley_dainelle
 
+Repo : https://github.com/dainelle17/hw_mq_riley_dainelle.git
+
 # Resources
 *
 http://html-color-codes.info
